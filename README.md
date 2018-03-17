@@ -1,9 +1,9 @@
 # INSTRUCTIONS
 
 ## Init
-Copy <a href="ConsoleApp1.exe" >ConsoleApp1.exe</a> "ConsoleApp1.exe" into target computer. Example: C:\ConsoleApp1.exe
+Copy <a href="ConsoleApp1.exe" >ConsoleApp1.exe</a> "ConsoleApp1.exe" or please your Application into target computer. Example: C:\ConsoleApp1.exe
 ## Init Registers
-Run  <a href="CustomURLProtocol.exe" >CustomURLProtocol.exe</a> "CustomURLProtocol.exe"
+Download adn run <a href="CustomURLProtocol.exe" >CustomURLProtocol.exe</a> "CustomURLProtocol.exe" 
 ###  Fill Filds 
 Protocol Name: MyCompanyProtocol
 Company Name: MyCompany
