@@ -1,8 +1,4 @@
-# open-programm-from-browser
-
-
 # INSTRUCTIONS
-
 
 1. Copy <a href="ConsoleApp1.exe" >ConsoleApp1.exe</a> "ConsoleApp1.exe" into target computer. Example: C:\ConsoleApp1.exe
 2. Run  <a href="CustomURLProtocol.exe" >CustomURLProtocol.exe</a> "CustomURLProtocol.exe"
