@@ -16,6 +16,8 @@ Click Create then Click Test to test it, this will add registers to target compu
 ## Place code into webpage 
 Place 
 
+```
 <xmp><a href="MyCompanyProtocol: commandtype=getPrinterList" >Run My App</a></xmp>
+```
 
 Where application params can be attcahed like in example "MyCompanyProtocol: commandtype=getPrinterList" in a href
