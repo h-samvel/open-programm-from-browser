@@ -1,1 +1,27 @@
 # open-programm-from-browser
+
+
+    #INSTRUCTIONS
+    <br>
+    Copy <a href="ConsoleApp1.exe" >ConsoleApp1.exe</a> "ConsoleApp1.exe" into target computer. Example: C:\ConsoleApp1.exe
+    <br>
+    Run  <a href="CustomURLProtocol.exe" >CustomURLProtocol.exe</a> "CustomURLProtocol.exe"  
+    <br>
+    Fill Filds 
+    <br>
+    Protocol Name: MyCompanyProtocol
+    <br>
+    Company Name: MyCompany
+    <br>
+    Application Path: your Application path in target computer Example: C:\ConsoleApp1.exe
+    <br>
+    Click Create 
+    <br>
+    Click Test to test it
+    <br>
+    It is adding registers to target computer  
+    Inside web page use  
+    <xmp><a href="MyCompanyProtocol: commandtype=getPrinterList" >Run My App</a></xmp>
+    
+    Using Params  MyCompanyProtocol: commandtype=getPrinterList 
+    in a href
