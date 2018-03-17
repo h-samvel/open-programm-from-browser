@@ -21,3 +21,7 @@ Place
 ```
 
 Where application params can be attcahed like in example "MyCompanyProtocol: commandtype=getPrinterList" in a href
+
+[Demo](http://htmlpreview.github.io/?https://github.com/h-samvel/open-programm-from-browser/blob/master/index.html) 
+
+ 
